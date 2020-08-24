@@ -1,4 +1,4 @@
-## Hello <img src="./images/Earth.gif" height="23px" alt="World">, I'm Alan.
+## Hello <img src="https://raw.githubusercontent.com/AlanConstantino/AlanConstantino/master/images/Earth.gif" height="23px" alt="World">, I'm Alan.
 
 Hello, my name is Alan Constantino and I'm currently a Computer Science student at CSUN.
 
@@ -16,27 +16,27 @@ Hello, my name is Alan Constantino and I'm currently a Computer Science student 
 <div style="display:flex; flex-wrap:nowrap;">
 
 <a style="text-align:center;" href="https://alanconstantino.com/">
-    <img src="./images/code.svg" width="58px">
+    <img src="https://raw.githubusercontent.com/AlanConstantino/AlanConstantino/master/images/code.svg" width="58px">
     <p>Portfolio</p>
 </a>
 
 <a style="margin-left: 40px; text-align:center;" href="https://blog.alanconstantino.com/">
-    <img src="./images/blog.svg" width="50px">
+    <img src="https://raw.githubusercontent.com/AlanConstantino/AlanConstantino/master/images/blog.svg" width="50px">
     <p>Blog</p>
 </a>
 
 <a style="margin-left: 40px; text-align:center;" href="https://dev.to/alanconstantino">
-    <img src="./images/dev-brands.svg" width="50px">
+    <img src="https://raw.githubusercontent.com/AlanConstantino/AlanConstantino/master/images/dev-brands.svg" width="50px">
     <p>Dev.to</p>
 </a>
 
 <a style="margin-left: 40px; text-align:center;" href="https://medium.com/@alanconstantino">
-    <img src="./images/medium-brands.svg" width="50px">
+    <img src="https://raw.githubusercontent.com/AlanConstantino/AlanConstantino/master/images/medium-brands.svg" width="50px">
     <p>Medium</p>
 </a>
 
 <a style="margin-left: 40px; text-align:center;" href="https://www.linkedin.com/in/alan-constantino-a93648183/">
-    <img src="./images/linkedin-brands.svg" width="50px">
+    <img src="https://raw.githubusercontent.com/AlanConstantino/AlanConstantino/master/images/linkedin-brands.svg" width="50px">
     <p>LinkedIn</p>
 </a>
 
