@@ -6,6 +6,7 @@ Hello, my name is Alan Constantino and I'm currently a senior Computer Science s
   - [Pi Cloud Server](https://github.com/AlanConstantino/pi-cloud-server)
   - [AniChart Website Clone](https://github.com/AlanConstantino/anichart-clone)
   - [JavaScript Snake Game](https://github.com/AlanConstantino/snake)
+  - [Raspberry Pi Automatic Plant Watering System](https://github.com/AlanConstantino/rpi-plant-project)
 
 ### My most recent articles:
   - [Creating Your Own Deepfakes Without Coding Experience](https://medium.com/@alanconstantino/creating-your-own-deepfakes-with-a-single-image-74c86903d8c)
