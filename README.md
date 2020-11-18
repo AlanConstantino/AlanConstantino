@@ -2,6 +2,10 @@
 
 Hello, my name is Alan Constantino and I'm currently a senior Computer Science student at CSUN.
 
+### Currently working on:
+  - [JavaScript Forum](https://github.com/AlanConstantino/comp-586-project)
+  - [FarmSignal (Advanced Automated Plant Watering System)](https://github.com/AlanConstantino/FarmSignal)
+
 ### My most recent projects:
   - [Pi Cloud Server](https://github.com/AlanConstantino/pi-cloud-server)
   - [AniChart Website Clone](https://github.com/AlanConstantino/anichart-clone)
