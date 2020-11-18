@@ -55,4 +55,4 @@ Hello, my name is Alan Constantino and I'm currently a senior Computer Science s
 
 <br>
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A4221TR)
+<a href="https://www.patreon.com/alanjc"><img src="https://i1.wp.com/jennifergilmour.com/wp-content/uploads/2019/12/Patreon.jpg?resize=1080%2C675&ssl=1" width="auto" height="80px"></a>
