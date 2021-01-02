@@ -2,21 +2,6 @@
 
 Hello, my name is Alan Constantino and I'm currently a senior Computer Science student at CSUN.
 
-### Currently working on:
-  - [JavaScript Forum](https://github.com/AlanConstantino/comp-586-project)
-  - [FarmSignal (Advanced Automated Plant Watering System)](https://github.com/AlanConstantino/FarmSignal)
-
-### My most recent projects:
-  - [Pi Cloud Server](https://github.com/AlanConstantino/pi-cloud-server)
-  - [AniChart Website Clone](https://github.com/AlanConstantino/anichart-clone)
-  - [JavaScript Snake Game](https://github.com/AlanConstantino/snake)
-  - [Raspberry Pi Automatic Plant Watering System](https://github.com/AlanConstantino/rpi-plant-project)
-
-### My most recent articles:
-  - [Creating Your Own Deepfakes Without Coding Experience](https://medium.com/@alanconstantino/creating-your-own-deepfakes-with-a-single-image-74c86903d8c)
-  - [Water Your Plant Using a Raspberry Pi and Python](https://medium.com/@alanconstantino/water-your-plant-using-a-raspberry-pi-and-python-109658983fe9?source=your_stories_page---------------------------)
-  - [5 Simple-To-Use APIs for Beginners](https://medium.com/@alanconstantino/5-simple-to-use-apis-for-beginners-a06ee7e42d62)
-
 ### You can find me here:
 <table>
   <tr>
