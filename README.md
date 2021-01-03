@@ -6,13 +6,13 @@ Hello, my name is Alan Constantino and I'm currently a senior Computer Science s
 <table>
   <tr>
     <td align="center">
-      <a href="https://alanconstantino.com/">
+      <a href="https://alanjc.com/">
         <p>Portfolio</p>
         <img src="https://raw.githubusercontent.com/AlanConstantino/AlanConstantino/master/images/code.svg" width="58px">
       </a>
     </td>
     <td align="center">
-      <a href="https://blog.alanconstantino.com/">
+      <a href="https://blog.alanjc.com/">
         <p>Blog</p>
         <img src="https://raw.githubusercontent.com/AlanConstantino/AlanConstantino/master/images/blog.svg" width="52px">
       </a>
