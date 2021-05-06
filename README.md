@@ -37,7 +37,3 @@ Hello, my name is Alan Constantino and I'm currently a senior Computer Science s
     </td>
   </tr>
 </table>
-
-<br>
-
-<a href="https://www.patreon.com/alanjc"><img src="https://i1.wp.com/jennifergilmour.com/wp-content/uploads/2019/12/Patreon.jpg?resize=1080%2C675&ssl=1" width="auto" height="80px"></a>
