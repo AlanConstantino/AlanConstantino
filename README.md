@@ -1,6 +1,8 @@
-## Hello <img src="https://raw.githubusercontent.com/AlanConstantino/AlanConstantino/master/images/Earth.gif" height="23px" alt="World">, I'm Alan.
+## Hello <img src="https://raw.githubusercontent.com/AlanConstantino/AlanConstantino/master/images/Earth.gif" height="23px" alt="World">, my name is Alan!
 
-Hello, my name is Alan Constantino and I'm a recent Computer Science graduate from CSUN (May 2022).
+I'm a recent Computer Science graduate from CSUN (May 2022).
+
+<a href="https://i.kym-cdn.com/photos/images/newsfeed/002/243/396/eb3.jpg">I use Arch btw.</a>
 
 ### You can find me here:
 <table>
