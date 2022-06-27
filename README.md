@@ -1,6 +1,6 @@
 ## Hello <img src="https://raw.githubusercontent.com/AlanConstantino/AlanConstantino/master/images/Earth.gif" height="23px" alt="World">, I'm Alan.
 
-Hello, my name is Alan Constantino and I'm currently a senior Computer Science student at CSUN.
+Hello, my name is Alan Constantino and I'm a recent Computer Science graduate from CSUN (May 2022).
 
 ### You can find me here:
 <table>
